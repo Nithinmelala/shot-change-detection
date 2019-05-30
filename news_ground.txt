@@ -1,0 +1,11 @@
+Shot boundary (in frame)
+Each row denotes a shot change 
+(all shot changes in this sequences are hard cuts)
+
+73
+235
+301
+370
+452
+861
+1281
